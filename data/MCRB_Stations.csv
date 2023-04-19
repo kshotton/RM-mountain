@@ -1,0 +1,6 @@
+Station,Easting,Northing,Elevation,Path,Use_In_Fitting,Use_In_Simulation
+Fisera_Ridge,626132,5646467,2325,./data/FR_high_band_pr.csv,1,1
+Upper_Clearing,628147,5646573,1845,./data/UC_high_band_pr.csv,1,1
+Hay_Meadow,630745,5645258,1436,./data/HM_high_band_pr.csv,1,1
+Kananaskis,635104,5654649,1391,./data/K_high_band_pr.csv,1,0
+Bow_Valley,635410,5660866,1298,./data/BV_high_band_pr.csv,1,0
